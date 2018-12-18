@@ -1,0 +1,27 @@
+{
+  "name": "node-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RAGSOOK/node-intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RAGSOOK/node-intro/issues"
+  },
+  "homepage": "https://github.com/RAGSOOK/node-intro#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  }
+}
